@@ -1,7 +1,5 @@
 package PolymorphismChallenge;
 
-import java.io.PrintStream;
-
 public class Car {
     private String description;
 
@@ -13,11 +11,9 @@ public class Car {
         System.out.println("Engine starting...");
     }
 
-    public void drive() {
-        PrintStream var10000 = System.out;
-        String var10001 = this.getClass().getSimpleName();
-        var10000.println("Driving " + var10001 + "\n" + this.description);
-        this.runEngine();
+    public void drive(){
+        System.out.println("Driving " + getClass().getSimpleName() + "\n" + description);
+        runEngine();
     }
 
     protected void runEngine() {
