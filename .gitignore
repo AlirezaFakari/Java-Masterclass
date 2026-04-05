@@ -2,4 +2,6 @@
 out/
 *.class
 *.iml
-*Main.java
+*Main.javaout/
+.DS_Store
+S8/
