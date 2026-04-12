@@ -1,4 +1,4 @@
-package BedroomComposition;
+package bedroomcomposition;
 
 public class Ceiling {
     private int height;

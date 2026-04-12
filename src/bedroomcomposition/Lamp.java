@@ -1,4 +1,4 @@
-package BedroomComposition;
+package bedroomcomposition;
 
 public class Lamp {
     private String style;

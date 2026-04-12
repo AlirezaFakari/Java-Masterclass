@@ -1,4 +1,4 @@
-package CarpetCompany;
+package carpetcompany;
 
 public class Floor {
     private double width;

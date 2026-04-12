@@ -1,4 +1,4 @@
-package CarpetCompany;
+package carpetcompany;
 
 public class Calculator {
     private Floor floor;

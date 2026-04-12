@@ -1,6 +1,6 @@
-package PolymorphismChallenge;
+package polymorphismchallenge;
 
-public class GasPoweredCar extends Car {
+public class GasPoweredCar extends polymorphismchallenge.Car {
     private double avgKmPerLitre;
     private int cylinders;
 

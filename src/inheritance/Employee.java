@@ -1,4 +1,4 @@
-package Inheritance;
+package inheritance;
 
 public class Employee extends Worker {
     private long employeeId;

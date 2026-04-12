@@ -1,4 +1,4 @@
-package BedroomComposition;
+package bedroomcomposition;
 
 public class Bedroom {
     private String name;

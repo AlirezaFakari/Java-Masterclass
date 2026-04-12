@@ -1,4 +1,4 @@
-package smartKitchen;
+package smartkitchen;
 
 public class SmartKitchen {
     private CoffeeMaker brewMaster;

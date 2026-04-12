@@ -1,6 +1,6 @@
-package PolymorphismChallenge;
+package polymorphismchallenge;
 
-public class ElectricCar extends Car {
+public class ElectricCar extends polymorphismchallenge.Car {
     private double avgKmPerCharge;
     private int batterySize;
 

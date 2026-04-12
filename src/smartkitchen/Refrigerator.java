@@ -1,14 +1,14 @@
-package smartKitchen;
+package smartkitchen;
 
-public class DishWasher {
+public class Refrigerator {
     private boolean hasWorkToDo;
 
     public void setHasWorkToDo(boolean hasWorkToDo) {
         this.hasWorkToDo = hasWorkToDo;
     }
-    public void doDishes(){
+    public void orderFood(){
         if(hasWorkToDo) {
-            System.out.println("Washing Dishes");
+            System.out.println("Ordering Food");
             hasWorkToDo = false;
         }
     }
